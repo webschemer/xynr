@@ -1,20 +1,20 @@
-<!-- Testing out Vue Ripple -->
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>XYNR | Home</title>
-        <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vue-touch-ripple@3.0.0/dist/vue-touch-ripple.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vue-touch-ripple@3.0.0/dist/vue-touch-ripple.css"></script>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <div id="vueapp">
-            <touch-ripple :speed="1.5" color="white" class="btn">
-                <button class="black">CLICK ME</button>
-            </touch-ripple>
-        </div>
-    </body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XYNR | Home</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-touch-ripple@3.0.0/dist/vue-touch-ripple.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/vue-touch-ripple@3.0.0/dist/vue-touch-ripple.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="vueapp">
+      <touch-ripple :speed="1.5" color="white" class="btn">
+        <button class="black">CLICK ME</button>
+      </touch-ripple>
+    </div>
+    <script src="script.js"></script>
+  </body>
 </html>
