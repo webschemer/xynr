@@ -1,4 +1,6 @@
 <div align="center">
+  <br>
+  <img src="/assets/images/brand/xynr.gif" width="300">
   <h3>Xynr</h3>
   <p>Website request #1 • Requested by <a href="https://github.com/xxynr">@xxynr</a></p>
   <p><strong>
