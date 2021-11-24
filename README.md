@@ -6,7 +6,7 @@
   <p><strong>
     <a href="https://github.com/webschemer/xynr/issues">Issue Tracker</a>
     &nbsp;•&nbsp;
-    <a href="https://webschemer.github.io/">View website</a>
+    <a href="https://webschemer.github.io/xynr">View website</a>
     &nbsp;•&nbsp;
     <a href="https://github.com/webschemer/xynr/pulls">Pull Requests</a>
   </strong><p>
